@@ -1,4 +1,4 @@
-# The Forge — Ironreach Lore (Canon)
+# The Forge RP — Ironreach Lore (Canon)
 
 This repository contains the canonical lore for **The Forge** RP universe set in the state of **Ironreach**.
 
