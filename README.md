@@ -1,5 +1,8 @@
 # The Forge RP — Ironreach Lore (Canon)
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed973191-dab5-474b-8ac1-bd17338e3c89" />
+
+
 This repository is the living canon for The Forge, a serious roleplay universe built on Helix and set in the landlocked state of Ironreach.
 
 Ironreach is not just a backdrop—it is the foundation. Its regions, power structures, industries, and history shape how every story unfolds. The map is not random. Locations exist for a reason. Factions rise and fall based on geography, economics, and pressure. Lore gives meaning to conflict, consequence to decisions, and continuity to roleplay.
