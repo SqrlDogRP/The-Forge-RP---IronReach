@@ -2,6 +2,9 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed973191-dab5-474b-8ac1-bd17338e3c89" />
 
+<img width="1001" height="669" alt="Screenshot 2025-12-17 103343" src="https://github.com/user-attachments/assets/adaa0664-9ae3-499a-8f6e-55aefbc30471" />
+
+
 
 This repository is the living canon for The Forge, a serious roleplay universe built on Helix and set in the landlocked state of Ironreach.
 
