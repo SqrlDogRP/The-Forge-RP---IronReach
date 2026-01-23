@@ -1,135 +1,150 @@
 # Law Enforcement in Ironreach
 
-Law enforcement in Ironreach is fragmented, political, and deeply shaped by the region’s geography, wealth gaps, and history. While agencies are technically aligned under state law, cooperation is often strained by jurisdictional rivalries, corruption, and competing interests between urban elites and rural communities.
-
-This structure creates space for everything from professional policing to back-channel deals, task force power struggles, and rogue enforcement units.
+Law enforcement in Ironreach is fragmented, politicized, and unevenly applied. Authority exists, but it is split across overlapping jurisdictions, private contracts, and underfunded agencies. This structure is intentional—and it is a major driver of conflict and RP.
 
 ---
 
-## Ironreach State Police (ISP)
+## State-Level Agencies
 
-**Jurisdiction:** Statewide  
-**Primary Role:** Highways, inter-county crime, major investigations
+### Ironreach State Police (ISP)
+**Jurisdiction:** Statewide highways, inter-county crime, major incidents  
+**Role:** Traffic enforcement, organized crime task forces, riot response  
+**Tone:** Professional, heavily armed, politically insulated
 
-The Ironreach State Police serve as the backbone of law enforcement across the state. They handle highway patrol, major criminal investigations, and step in when local agencies are overwhelmed—or politically compromised.
-
-ISP is well-funded, well-trained, and often viewed with suspicion by local departments who see them as outsiders or watchdogs.
-
-**Reputation**
-- Professional but rigid  
-- Strong internal hierarchy  
-- Known for aggressive pursuit tactics and high-profile task forces  
-
-**Common Story Hooks**
-- State task force investigations  
-- Jurisdictional clashes with city PDs  
-- Political pressure from the capital  
+**Notes:**
+- ISP answers directly to state leadership, not local governments
+- Frequently called into regional conflicts but rarely stays long
+- Viewed with suspicion outside Ironclad City
 
 ---
 
-## Ironclad City Police Department (ICPD)
+### Bureau of Investigations (IBI)
+**Jurisdiction:** Major crimes, corruption, financial crime, organized factions  
+**Role:** Long-term investigations, undercover work, intelligence gathering  
+**Tone:** Quiet, surgical, paperwork-heavy
 
-**Jurisdiction:** Ironclad City (metro area)  
-**Primary Role:** Urban policing, organized crime, public order
-
-The ICPD is the largest municipal police force in Ironreach. Tasked with policing Ironclad City’s dense urban core, financial districts, and industrial zones, the department walks a fine line between public safety and political influence.
-
-Funding and priorities often shift depending on city leadership, donor pressure, and media scrutiny.
-
-**Reputation**
-- Well-equipped but overstretched  
-- Internal divisions between patrol, detectives, and special units  
-- Persistent rumors of corruption in upper leadership  
-
-**Common Story Hooks**
-- Vice and narcotics units  
-- Corrupt commanders or compromised detectives  
-- High-speed chases and urban raids  
+**Notes:**
+- Operates slowly but decisively  
+- Often bypasses local agencies entirely  
+- Rarely visible until arrests are already decided
 
 ---
 
-## Crosswind Corridor Sheriff’s Office (CCSO)
+### Department of Corrections (IDOC)
+**Jurisdiction:** Prisons, transport, parole enforcement  
+**Role:** Containment, labor contracts, internal security  
+**Tone:** Bureaucratic, impersonal
 
-**Jurisdiction:** Rural counties and unincorporated land  
-**Primary Role:** County law enforcement, jail operations, warrants
-
-The Crosswind Corridor Sheriff’s Office represents traditional rural law enforcement. Deputies patrol vast stretches of farmland, backroads, and small towns where everyone knows everyone.
-
-CCSO operates with limited resources but broad authority, and deputies frequently balance law enforcement with community relationships.
-
-**Reputation**
-- Tough, independent, and territorial  
-- Deep local ties  
-- Distrustful of state and city interference  
-
-**Common Story Hooks**
-- Manhunts through rural terrain  
-- Deputies turning a blind eye—or enforcing personal justice  
-- Conflicts with biker gangs or militias  
+**Notes:**
+- Several facilities located near Dustwater Flats and Hollow Point  
+- Prison labor contracts are a source of political tension  
 
 ---
 
-## Harbor Authority Police (HAP)
+## County-Level Enforcement
 
-**Jurisdiction:** Ports, marinas, and waterways  
-**Primary Role:** Smuggling interdiction, port security
+### Sheriff’s Offices
+**Jurisdiction:** Unincorporated areas, rural towns, county roads  
+**Role:** Patrol, warrants, jail operations  
+**Tone:** Local, resource-strapped, personality-driven
 
-Operating along Ironreach’s lakes, rivers, and industrial ports, the Harbor Authority Police are a specialized force focused on maritime crime, cargo theft, and smuggling operations.
-
-They are small in number but strategically critical.
-
-**Reputation**
-- Quiet and intelligence-driven  
-- Close ties to federal agencies  
-- Rarely seen, but highly effective  
-
-**Common Story Hooks**
-- Smuggling rings  
-- Black market cargo  
-- Joint operations with unknown federal units  
+**Notes:**
+- Power varies wildly by county  
+- Some sheriffs are deeply tied to local factions  
+- Enforcement priorities often reflect personal beliefs
 
 ---
 
-## Ironreach Bureau of Investigation (IBI)
+## City & Regional Departments
 
-**Jurisdiction:** Statewide (special assignment)  
-**Primary Role:** Organized crime, corruption, high-level conspiracies
+### Ironclad City Police Department (ICPD)
+**Jurisdiction:** Ironclad City proper  
+**Role:** Urban patrol, rapid response, surveillance enforcement  
+**Tone:** Militarized, policy-heavy
 
-The IBI operates in the shadows. Officially, it investigates major criminal enterprises and public corruption. Unofficially, no one is ever quite sure who they answer to.
-
-IBI agents often appear after things have already gone wrong.
-
-**Reputation**
-- Secretive and politically insulated  
-- Feared by other agencies  
-- Files that never seem to close  
-
-**Common Story Hooks**
-- Long-running conspiracy arcs  
-- Undercover operations  
-- Disappearances and sealed evidence  
+**Notes:**
+- Extensive camera and monitoring systems  
+- Private security contracts supplement patrols  
+- Public trust is low despite high funding
 
 ---
 
-## Inter-Agency Dynamics
+### Westlake Expanse Security Authority (WESA)
+**Jurisdiction:** Westlake commercial and leisure zones  
+**Role:** Asset protection, VIP security, incident suppression  
+**Tone:** Polite, discreet, corporate
 
-Law enforcement in Ironreach is defined less by unity and more by friction.
-
-- **City vs. County:** Urban police view sheriffs as outdated; sheriffs view city cops as corrupt and soft.  
-- **State Oversight:** ISP and IBI involvement is often resented but unavoidable.  
-- **Politics:** Funding, leadership appointments, and enforcement priorities are heavily politicized.  
-
-These tensions fuel corruption, gray-area enforcement, and opportunities for criminals, civilians, and factions to exploit the cracks.
+**Notes:**
+- Technically law enforcement, functionally private security  
+- Financial crimes are deprioritized unless politically convenient  
 
 ---
 
-## Future Expansion Areas
+### Regional Marshals (Crosswind Corridor)
+**Jurisdiction:** Transit hubs, rail corridors, logistics zones  
+**Role:** Cargo protection, inter-agency coordination  
+**Tone:** Transactional, pragmatic
 
-The following will be fleshed out in later updates:
+**Notes:**
+- Often cooperate with smugglers to “keep things moving”  
+- Bribery and informal agreements are common  
 
-- Specialized units (SWAT, Vice, Cyber, Task Forces)  
-- Federal presence and covert agencies  
-- Private security contractors  
-- Prison system and transport  
-- Historical scandals and cold cases  
+---
+
+## Neglected & Limited Enforcement Zones
+
+### Hollow Point
+- Minimal permanent law enforcement presence  
+- Entry checkpoints exist but are inconsistently staffed  
+- Most enforcement actions are reactionary raids
+
+### Dustwater Flats
+- Patrol coverage is sparse and delayed  
+- Deputies rely heavily on informants  
+- Many crimes go unreported or unresolved
+
+---
+
+## Interagency Dynamics
+
+- Jurisdictional conflicts are common  
+- Agencies frequently withhold information from one another  
+- Task forces are temporary and politically motivated  
+- Evidence may “disappear” when cases cross regions
+
+---
+
+## Roleplay Enforcement Guidelines
+
+**General Principles:**
+- Law enforcement presence is **uneven**
+- Not every crime triggers a response
+- Escalation depends on location, visibility, and political pressure
+
+**Pursuits:**
+- High-speed pursuits are rare outside Ironclad and Crosswind
+- Rural chases often disengage quickly
+
+**Use of Force:**
+- Strict in Ironclad City  
+- Flexible or ignored in remote regions
+
+**Corruption:**
+- Exists at every level  
+- Open corruption is rare; quiet favors are common
+
+---
+
+## Canon Notes
+- This structure is **hard canon**
+- Individual officers may vary in behavior
+- Departments may evolve, merge, or fracture through RP
+
+---
+
+## Areas to Be Expanded
+- Named departments and sheriffs by county  
+- Internal affairs scandals  
+- Specialized task forces  
+- Prison facilities and transport routes  
 
